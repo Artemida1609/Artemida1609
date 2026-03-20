@@ -31,7 +31,7 @@ A web project for a beauty service with dynamic elements, responsive design, and
 
 ## 📫 Connect with Me
 
-- Telegram: [@Artemida1609](https://t.me/artem_skichko)
+- Telegram: [@artem_skichko](https://t.me/artem_skichko)
 - GitHub: [Artemida1609](https://github.com/Artemida1609)
 
 ---
