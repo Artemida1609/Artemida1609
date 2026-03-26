@@ -27,13 +27,13 @@ A modern nail salon website featuring smooth animations, responsive design, and 
 ### [BV Barbershop](https://bvbarbershop.vercel.app/)
 A sleek barbershop website with a bold, masculine aesthetic, showcasing services, team, and booking — built with React and TypeScript.
 
-###[Do pizze](https://do-pizze.vercel.app/)
+### [Do pizze](https://do-pizze.vercel.app/)
 A vibrant pizzeria website for a Košice-based restaurant featuring an interactive menu, modern UI, and a warm, appetizing design built with React and TypeScript.
 
-###[RT Service](https://rt-service.vercel.app/)
+### [RT Service](https://rt-service.vercel.app/)
 A premium car repair website with a professional, trust-building design that highlights services, expertise, and contact — built with React and TypeScript.
 
-###[Muse Cafe](https://musecafe-livid.vercel.app/)
+### [Muse Cafe](https://musecafe-livid.vercel.app/)
 A sophisticated specialty café website for a Košice coffee shop, featuring an elegant editorial design with smooth scroll animations and an atmospheric menu showcase, built with React and TypeScript.
 
 ### [HairCare](https://github.com/Artemida1609/HairCare)
